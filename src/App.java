@@ -13,3 +13,4 @@ public class App {
         // Initial code on Day 0
     }
 }
+System.out.println("hello World");
